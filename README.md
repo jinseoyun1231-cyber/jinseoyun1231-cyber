@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 안녕하세요, 진서윤 입니다.
-# ✨ 언제나 밝고 신나게 살아가고 싶습니다.
+### ✨ 언제나 밝고 신나게 살아가고 싶습니다.
 
 ---
 
