@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **jinseoyun1231-cyber/jinseoyun1231-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 안녕하세요, 진서윤 입니다.
+## 👋 안녕하세요, 진서윤 입니다.
 ### ✨ 언제나 밝고 신나게 살아가고 싶습니다.
 
 ---
